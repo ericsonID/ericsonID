@@ -1,4 +1,5 @@
-## Olá eu sou o Ericson, bem vindo ao meu perfil!
+## Hii :smile: ,
+My name is Ericson, welcome to my profile!
 <div align="center">
   <a href="https://github.com/ericsonID">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsonID&bg_color=30,000000,0C6DF9&title_color=fff&text_color=fff"&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
