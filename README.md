@@ -1,8 +1,8 @@
-## Oiii eu sou o Ericson, bem vindo ao meu perfil!
+## Olá eu sou o Ericson, bem vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/ericsonID">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsonID&bg_color=30,000000,0C6DF9&title_color=fff&text_color=fff"&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsonID&bg_color=30,000000,0C6DF9&title_color=fff&text_color=fff"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ericsonID&bg_color=30,000000,0C6DF9&title_color=fff&text_color=fff"&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ericsonID&bg_color=30,000000,0C6DF9&title_color=fff&text_color=fff"/>
   
 </div>
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@
   <a href = "mailto:ericson.id@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericsondelima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ericsonID/ericsonID/blob/main/.github/workflows/snake.yml)
  
 </div>
